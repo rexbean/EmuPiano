@@ -1,0 +1,17 @@
+D:\inspiration\Piano\Piano\bin\Debug\Piano.exe
+D:\inspiration\Piano\Piano\bin\Debug\Piano.pdb
+D:\inspiration\Piano\Piano\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\inspiration\Piano\Piano\obj\x86\Debug\Piano.Form1.resources
+D:\inspiration\Piano\Piano\obj\x86\Debug\Piano.Properties.Resources.resources
+D:\inspiration\Piano\Piano\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\inspiration\Piano\Piano\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\inspiration\Piano\Piano\obj\x86\Debug\Piano.exe
+D:\inspiration\Piano\Piano\obj\x86\Debug\Piano.pdb
+G:\备份数据\inspiration\Piano\Piano\obj\x86\Debug\Piano.exe
+G:\备份数据\inspiration\Piano\Piano\obj\x86\Debug\Piano.pdb
+G:\备份数据\inspiration\Piano\Piano\bin\Debug\Piano.exe
+G:\备份数据\inspiration\Piano\Piano\bin\Debug\Piano.pdb
+G:\备份数据\inspiration\Piano\Piano\obj\x86\Debug\Piano.csprojResolveAssemblyReference.cache
+G:\备份数据\inspiration\Piano\Piano\obj\x86\Debug\Piano.Form1.resources
+G:\备份数据\inspiration\Piano\Piano\obj\x86\Debug\Piano.Properties.Resources.resources
+G:\备份数据\inspiration\Piano\Piano\obj\x86\Debug\Piano.csproj.GenerateResource.Cache
